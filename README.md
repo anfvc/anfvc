@@ -1,10 +1,15 @@
 ### Hey there! I'm Andrés!
 ---
 ## 👨🏻‍💻  About Me
-- 🤔   I'm getting new knowledge about web development and software solutions to pursue a career in tech!
-- 🎓   I have studied International Business as a major.
-- 💼   I have been working as a Supply Chain Manager where I developed my interest for WebDev and software.
-- :wrench: Currently, doing a boot-camp to boost my skills as a Web developer and tech enthusiast.
+
+- 🎓 Studied International Business as a major.
+- 💼 Worked as a Supply Chain Manager, where I cultivated a keen interest in Web Development and software solutions.
+- 🔧 Currently enrolled in a boot-camp to enhance my skills as a Web developer and further pursue my passion for technology.
+- 🌟 Excited about leveraging my background in business and management to contribute to innovative tech solutions.
+- 🚀 Eager to transition into a career in tech and make meaningful contributions to the field of Web Development.
+- 💻 Actively seeking opportunities to apply my newfound skills and knowledge in real-world projects.
+- 📚 Continuously learning and exploring new technologies to stay updated with industry trends and advancements.
+- 🌐 Inspired to create impactful digital experiences and solve complex problems through technology.
 
 ---
 ## 🛠  Tech Stack

@@ -17,7 +17,7 @@
 
 ## 🛠 Tech Stack
 
-- 🌐 ![HTML](https://img.shields.io/badge/-HTML5-333333?logo=html5&style=flat&logoWidth=15), ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoWidth=15), ![Static Badge](https://img.shields.io/badge/-sass?style=flat&logo=SASS&logoColor=%23CC6699&label=SASS&labelColor=white&color=white&width=15),
+- 🌐 ![HTML](https://img.shields.io/badge/-HTML5-333333?logo=html5&style=flat&logoWidth=15), ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoWidth=15&logoColor=1572B6), ![SASS](https://img.shields.io/badge/-SASS-333333?logo=SASS&style=flat&logoWidth=15),
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?logo=javascript&style=flat&logoWidth=15), ![Tailwindcss](https://img.shields.io/badge/TailwindCSS-333333?&logo=TailwindCSS), ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=green), ![Tailwindcss](https://img.shields.io/badge/Node.JS-333333?&logo=nodedotjs)
 - ⚙️ ![Git](https://img.shields.io/badge/-Git-333333?logo=git&logoColor=F05032&logoWidth=15&style=flat), ![GitHub](https://img.shields.io/badge/-GitHub-333333?logo=github&logoWidth=15&style=flat)
 - 🔧 ![Visual-Studio-Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=46A8EA)

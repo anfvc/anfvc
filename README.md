@@ -31,4 +31,4 @@
 ---
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anfvc&hide_progress=false&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anfvc&hide_progress=false&theme=transparent)

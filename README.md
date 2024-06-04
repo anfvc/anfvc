@@ -27,3 +27,8 @@
 
 - <a href="https://www.instagram.com/anfvc/"><img alt="Instagram" src="https://img.shields.io/badge/Website-https://instagram.com/anfvc/-blue?style=flat-square&logo=instagram"></a>
 - <a href="https://www.linkedin.com/in/avillay/"><img alt="Instagram" src="https://img.shields.io/badge/Website-https://www.linkedin.com/in/avillay/-blue?style=flat-square&logo=linkedin"></a>
+
+---
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anfvc&hide_progress=false&theme=onedark)

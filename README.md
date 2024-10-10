@@ -40,4 +40,4 @@
 ---
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anfvc&hide_progress=false&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anfvc&layout=compact&theme=transparent)

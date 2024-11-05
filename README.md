@@ -1,7 +1,6 @@
-## Hey there! I'm Andrés!
+# Hey there! I'm Andrés!
 
-
-### About Me 👨🏻‍💻
+## About Me 👨🏻‍💻
 
 - 🎓 Studied International Business as a major.
 - 💼 Worked as a Supply Chain Manager, where I cultivated a keen interest in Web Development and software solutions.
@@ -12,25 +11,20 @@
 - 📚 Continuously learning and exploring new technologies to stay updated with industry trends and advancements.
 - 🌐 Inspired to create impactful digital experiences and solve complex problems through technology.
 
----
+## Tech Stack 🛠
 
-### Tech Stack 🛠
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=blue">
+<img src="  https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-##### Frontend 💎
-- ![HTML](https://img.shields.io/badge/-HTML5-333333?logo=html5&style=flat&logoWidth=15), ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoWidth=15&logoColor=1572B6), ![SASS](https://img.shields.io/badge/-SASS-333333?logo=SASS&style=flat&logoWidth=15),
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?logo=javascript&style=flat&logoWidth=15), ![React](https://img.shields.io/badge/-React-333333?logo=react&style=flat&logoWidth=15) ![Tailwindcss](https://img.shields.io/badge/TailwindCSS-333333?&logo=TailwindCSS)
-
-##### Backend ⚙️
-
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=green), ![NodeJS](https://img.shields.io/badge/Node-333333?&logo=nodedotjs), ![ExpressJS](https://img.shields.io/badge/Express.js-333333?&logo=express)
-
-##### Version Tracking 🔃
-- ![Git](https://img.shields.io/badge/-Git-333333?logo=git&logoColor=F05032&logoWidth=15&style=flat), ![GitHub](https://img.shields.io/badge/-GitHub-333333?logo=github&logoWidth=15&style=flat)
-
-##### Code Editors 🔧
--  ![Visual-Studio-Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=46A8EA)
-
----
 
 ### Let's connect! 🤝
 
@@ -38,6 +32,5 @@
 - <a href="https://www.linkedin.com/in/avillay/"><img alt="Instagram" src="https://img.shields.io/badge/Website-https://www.linkedin.com/in/avillay/-blue?style=flat-square&logo=linkedin"></a>
 
 ---
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anfvc&layout=compact&theme=transparent)

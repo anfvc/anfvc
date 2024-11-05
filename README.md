@@ -18,9 +18,9 @@
 
 ### Let's connect! 🤝
 
-- <a href="https://www.instagram.com/anfvc/"><img alt="Instagram" src="https://img.shields.io/badge/Website-https://instagram.com/anfvc/-blue?style=flat-square&logo=instagram"></a>
-- <a href="https://www.linkedin.com/in/avillay/"><img alt="Instagram" src="https://img.shields.io/badge/Website-https://www.linkedin.com/in/avillay/-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/anfvc/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://www.linkedin.com/in/avillay/"><img alt="Instagram" src="  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://anfvc.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 
 ---
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anfvc&layout=compact&theme=transparent)

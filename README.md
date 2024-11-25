@@ -4,7 +4,7 @@
 
 - 🎓 Studied International Business as a major.
 - 💼 Worked as a Supply Chain Manager, where I cultivated a keen interest in Web Development and software solutions.
-- 🔧 Currently enrolled in a boot-camp to enhance my skills as a Web developer and further pursue my passion for technology.
+- 🔧 I have successfully completed a one year full stack training in Web Development which allowing me to build a solid foundation in the MERN stack.
 - 🌟 Excited about leveraging my background in business and management to contribute to innovative tech solutions.
 - 🚀 Eager to transition into a career in tech and make meaningful contributions to the field of Web Development.
 - 💻 Actively seeking opportunities to apply my newfound skills and knowledge in real-world projects.
